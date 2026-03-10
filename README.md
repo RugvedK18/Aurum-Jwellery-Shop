@@ -7,3 +7,4 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-333333?style=for-the-badge&logo=javascript&logoColor=white)
 
+Live Preview :- https://gold-website-aurum.vercel.app/
